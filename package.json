@@ -1,0 +1,11 @@
+{
+  "name": "bootstrap-keui",
+  "version": "0.0.1",
+  "dependencies": "Bootstrap加强UI",
+  "repository": [
+    {
+      "type": "git",
+      "url": "https://github.com/wdaglb/bootstrap-keui"
+    }
+  ]
+}
