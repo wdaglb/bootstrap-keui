@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+// +----------------------------------------------------
+// 外间距
+// +----------------------------------------------------
+.margin-sm {
+  margin: $margin-sm-size;
+}
+.margin-sm-left {
+  margin-left: $margin-sm-size;
+}
+.margin-sm-right {
+  margin-right: $margin-sm-size;
+}
+.margin-sm-top {
+  margin-top: $margin-sm-size;
+}
+.margin-sm-bottom {
+  margin-bottom: $margin-sm-size;
+}
+.margin-sm-lr {
+  margin: 0 $margin-sm-size;
+}
+.margin-sm-tb {
+  margin: $margin-sm-size 0;
+}
+
+// +----------------------------------------------------
+// 内间距
+// +----------------------------------------------------
+.padding-sm {
+  padding: $margin-sm-size;
+}
+.padding-sm-left {
+  padding-left: $margin-sm-size;
+}
+.padding-sm-right {
+  padding-right: $margin-sm-size;
+}
+.padding-sm-top {
+  padding-top: $margin-sm-size;
+}
+.padding-sm-bottom {
+  padding-bottom: $margin-sm-size;
+}
+.padding-sm-lr {
+  padding: 0 $margin-sm-size;
+}
+.padding-sm-tb {
+  padding: $margin-sm-size 0;
+}

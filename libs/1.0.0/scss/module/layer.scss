@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+/**
+ * layer皮肤
+ */
+body .keform {
+  .layui-layer-btn {
+    .layui-layer-btn0 {
+      background:#00C1DE;
+      margin-left: 0;
+      margin-right: 0;
+      border-color:#00C1DE;
+      color:#fff;
+      border-radius: 0;
+    }
+    .layui-layer-btn1 {
+      background:#F7F7F7;
+      border-radius: 0;
+      &:hover {
+        background:#fff;
+      }
+    }
+  }
+}
+
+body .ke {
+  .layui-layer-content{
+    min-width: 300px;
+    padding: 15px;
+  }
+  .layui-layer-btn {
+    .layui-layer-btn0 {
+      background:#00C1DE;
+      margin-left: 0;
+      margin-right: 0;
+      border-color:#00C1DE;
+      color:#fff;
+      border-radius: 0;
+    }
+    .layui-layer-btn1 {
+      background:#F7F7F7;
+      border-radius: 0;
+      &:hover {
+        background:#fff;
+      }
+    }
+  }
+}
